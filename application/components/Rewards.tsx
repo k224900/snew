@@ -41,7 +41,7 @@ export default function Rewards({ miningContract, tokenContract }: Props) {
       style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
     >
       <p>
-        Your <b>Gold Gems</b>
+        Your <b>MYC</b>
       </p>
 
       {tokenMetadata ? (
